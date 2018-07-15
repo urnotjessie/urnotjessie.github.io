@@ -25,7 +25,7 @@ There are 2 models - user and recipe.
 * a user has_many recipes
 * a recipe belongs_to a user
 
-![](https://ibb.co/mcyE1o)
+![Imgur](https://i.imgur.com/oznNbid.png)
 
 **Controllers**
 
@@ -49,9 +49,9 @@ I used 3 controllers to organize the routes for different functions.
  **Views**
  
 For the views, I created 2 different layouts, one for the application home page, where users login or signup, and another layout for all the other pages after users log in.
-![Home page](https://ibb.co/nLW91o)
+![Imgur](https://i.imgur.com/bJUdJfB.jpg)
 
 I added the navigation bar for all the pages after users logged in. 
-![After logged in](https://ibb.co/hnB91o)
+![Imgur](https://i.imgur.com/sWfOPjU.jpg)
 
 
