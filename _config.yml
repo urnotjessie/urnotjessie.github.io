@@ -1,15 +1,14 @@
 # Site settings
+author: Jessie Gong
 title: Jessie Gong
 header-img: img/home-bg.png
 email: jessiegong92@gmail.com
-copyright_name: urnotjessie
+copyright_name: Jessie Gong
 description: > # this means to ignore newlines until "baseurl:"
-  web application developer
+  Developer | Columbia University | New York, NY
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  urnotjessie
-learn_profile: urnotjessie
-email_username: jessiegong92@gmail.com
 
 # Build settings
 markdown: kramdown
